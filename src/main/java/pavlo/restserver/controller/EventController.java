@@ -1,7 +1,7 @@
 package pavlo.restserver.controller;
 
 import org.springframework.http.MediaType;
-import pavlo.restserver.Service.EventService;
+import pavlo.restserver.service.EventService;
 import pavlo.restserver.model.Event;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

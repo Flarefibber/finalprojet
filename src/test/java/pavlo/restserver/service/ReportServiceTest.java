@@ -1,6 +1,5 @@
 package pavlo.restserver.service;
 
-import pavlo.restserver.Service.WorkReportService;
 import pavlo.restserver.model.Report;
 import org.junit.Before;
 import org.junit.Test;

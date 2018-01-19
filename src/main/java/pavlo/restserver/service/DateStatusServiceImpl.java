@@ -1,4 +1,4 @@
-package pavlo.restserver.Service;
+package pavlo.restserver.service;
 
 import pavlo.restserver.model.DateStatus;
 import pavlo.restserver.model.Employee;

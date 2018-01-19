@@ -1,7 +1,7 @@
 package pavlo.restserver.controller;
 
 import org.springframework.http.MediaType;
-import pavlo.restserver.Service.EmployeeService;
+import pavlo.restserver.service.EmployeeService;
 import pavlo.restserver.model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

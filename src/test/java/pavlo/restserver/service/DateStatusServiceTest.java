@@ -1,10 +1,5 @@
 package pavlo.restserver.service;
 
-import pavlo.restserver.Service.DateStatusService;
-import pavlo.restserver.Service.DepartmentService;
-import pavlo.restserver.Service.EmployeeService;
-import pavlo.restserver.Service.StatusWorkService;
-import pavlo.restserver.Service.PositionService;
 import pavlo.restserver.model.*;
 import org.junit.Before;
 import org.junit.Test;
@@ -13,8 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringRunner;
-
-import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 

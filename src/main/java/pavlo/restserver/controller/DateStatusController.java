@@ -1,8 +1,8 @@
 package pavlo.restserver.controller;
 
 import org.springframework.http.MediaType;
-import pavlo.restserver.Service.DateStatusService;
-import pavlo.restserver.Service.EmployeeService;
+import pavlo.restserver.service.DateStatusService;
+import pavlo.restserver.service.EmployeeService;
 import pavlo.restserver.model.DateStatus;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

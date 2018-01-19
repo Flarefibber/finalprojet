@@ -1,7 +1,5 @@
 package pavlo.restserver.service;
 
-import pavlo.restserver.Service.DateEventService;
-import pavlo.restserver.Service.EventService;
 import pavlo.restserver.model.DateEvent;
 import pavlo.restserver.model.Event;
 import org.junit.Before;
