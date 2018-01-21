@@ -1,1 +1,1 @@
-web: java -jar target/restserver-1.0-SNAPSHOT.war --port $PORT target/*.war
+web: java -jar target/restserver-1.0-SNAPSHOT.war --spring.profiles.active=prod
